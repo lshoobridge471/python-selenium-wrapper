@@ -1,0 +1,10 @@
+bin/
+dist/
+build
+*.pyc
+__pycache__
+.DS_Store
+
+requirements.txt
+omit/
+*egg*
